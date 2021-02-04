@@ -4,7 +4,7 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently studyin  (ect)
+- 🔭 I’m currently studying (ect)
 - 🌱 I’m currently learning source code management using git & github
 - 👯 I’m looking to collaborate with my friends
 - 💬 Ask me about nothing
